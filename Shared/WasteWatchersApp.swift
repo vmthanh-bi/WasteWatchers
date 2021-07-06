@@ -11,7 +11,7 @@ import SwiftUI
 struct WasteWatchersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ChecklistView()
         }
     }
 }

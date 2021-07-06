@@ -7,14 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		938A48AF25F28AD60044694C /* IndexedCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AC25F28AD60044694C /* IndexedCollection.swift */; };
+		938A48B025F28AD60044694C /* IndexedCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AC25F28AD60044694C /* IndexedCollection.swift */; };
+		938A48B125F28AD60044694C /* IndexedCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AC25F28AD60044694C /* IndexedCollection.swift */; };
+		938A48B225F28AD60044694C /* IndexedCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AC25F28AD60044694C /* IndexedCollection.swift */; };
+		938A48B325F28AD60044694C /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AD25F28AD60044694C /* Binding.swift */; };
+		938A48B425F28AD60044694C /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AD25F28AD60044694C /* Binding.swift */; };
+		938A48B525F28AD60044694C /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AD25F28AD60044694C /* Binding.swift */; };
+		938A48B625F28AD60044694C /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AD25F28AD60044694C /* Binding.swift */; };
+		938A48B725F28AD60044694C /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AE25F28AD60044694C /* ForEach.swift */; };
+		938A48B825F28AD60044694C /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AE25F28AD60044694C /* ForEach.swift */; };
+		938A48B925F28AD60044694C /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AE25F28AD60044694C /* ForEach.swift */; };
+		938A48BA25F28AD60044694C /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938A48AE25F28AD60044694C /* ForEach.swift */; };
 		939C01C925F1334F004E797E /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01C825F1334F004E797E /* Tests_iOS.swift */; };
 		939C01D425F1334F004E797E /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01D325F1334F004E797E /* Tests_macOS.swift */; };
 		939C01D625F1334F004E797E /* WasteWatchersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01AD25F13349004E797E /* WasteWatchersApp.swift */; };
 		939C01D725F1334F004E797E /* WasteWatchersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01AD25F13349004E797E /* WasteWatchersApp.swift */; };
-		939C01D825F1334F004E797E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01AE25F13349004E797E /* ContentView.swift */; };
-		939C01D925F1334F004E797E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01AE25F13349004E797E /* ContentView.swift */; };
+		939C01D825F1334F004E797E /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01AE25F13349004E797E /* ChecklistView.swift */; };
+		939C01D925F1334F004E797E /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01AE25F13349004E797E /* ChecklistView.swift */; };
 		939C01DA25F1334F004E797E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 939C01AF25F1334F004E797E /* Assets.xcassets */; };
 		939C01DB25F1334F004E797E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 939C01AF25F1334F004E797E /* Assets.xcassets */; };
+		939C01F325F140F2004E797E /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01F225F140F2004E797E /* ChecklistItem.swift */; };
+		939C01F425F140F2004E797E /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01F225F140F2004E797E /* ChecklistItem.swift */; };
+		939C01FE25F1417F004E797E /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01FD25F1417F004E797E /* Checklist.swift */; };
+		939C01FF25F1417F004E797E /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C01FD25F1417F004E797E /* Checklist.swift */; };
+		939C021F25F14755004E797E /* NewChecklistItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C021E25F14755004E797E /* NewChecklistItemView.swift */; };
+		939C022025F14755004E797E /* NewChecklistItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C021E25F14755004E797E /* NewChecklistItemView.swift */; };
+		939C022A25F14B84004E797E /* RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C022925F14B84004E797E /* RowView.swift */; };
+		939C022B25F14B84004E797E /* RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C022925F14B84004E797E /* RowView.swift */; };
+		939C024025F150F3004E797E /* EditChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C023F25F150F3004E797E /* EditChecklistView.swift */; };
+		939C024125F150F3004E797E /* EditChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939C023F25F150F3004E797E /* EditChecklistView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,8 +57,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		938A48AC25F28AD60044694C /* IndexedCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexedCollection.swift; sourceTree = "<group>"; };
+		938A48AD25F28AD60044694C /* Binding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		938A48AE25F28AD60044694C /* ForEach.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
 		939C01AD25F13349004E797E /* WasteWatchersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WasteWatchersApp.swift; sourceTree = "<group>"; };
-		939C01AE25F13349004E797E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		939C01AE25F13349004E797E /* ChecklistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistView.swift; sourceTree = "<group>"; };
 		939C01AF25F1334F004E797E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		939C01B425F1334F004E797E /* WasteWatchers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WasteWatchers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		939C01B725F1334F004E797E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -49,6 +74,11 @@
 		939C01CF25F1334F004E797E /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		939C01D325F1334F004E797E /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		939C01D525F1334F004E797E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		939C01F225F140F2004E797E /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
+		939C01FD25F1417F004E797E /* Checklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checklist.swift; sourceTree = "<group>"; };
+		939C021E25F14755004E797E /* NewChecklistItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewChecklistItemView.swift; sourceTree = "<group>"; };
+		939C022925F14B84004E797E /* RowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowView.swift; sourceTree = "<group>"; };
+		939C023F25F150F3004E797E /* EditChecklistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditChecklistView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +113,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		938A48AB25F28AD60044694C /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				938A48AC25F28AD60044694C /* IndexedCollection.swift */,
+				938A48AD25F28AD60044694C /* Binding.swift */,
+				938A48AE25F28AD60044694C /* ForEach.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		939C01A725F13349004E797E = {
 			isa = PBXGroup;
 			children = (
@@ -98,8 +138,14 @@
 		939C01AC25F13349004E797E /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				938A48AB25F28AD60044694C /* Extensions */,
 				939C01AD25F13349004E797E /* WasteWatchersApp.swift */,
-				939C01AE25F13349004E797E /* ContentView.swift */,
+				939C01AE25F13349004E797E /* ChecklistView.swift */,
+				939C01FD25F1417F004E797E /* Checklist.swift */,
+				939C01F225F140F2004E797E /* ChecklistItem.swift */,
+				939C021E25F14755004E797E /* NewChecklistItemView.swift */,
+				939C023F25F150F3004E797E /* EditChecklistView.swift */,
+				939C022925F14B84004E797E /* RowView.swift */,
 				939C01AF25F1334F004E797E /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -308,8 +354,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				939C01D825F1334F004E797E /* ContentView.swift in Sources */,
+				939C01FE25F1417F004E797E /* Checklist.swift in Sources */,
+				939C021F25F14755004E797E /* NewChecklistItemView.swift in Sources */,
+				939C022A25F14B84004E797E /* RowView.swift in Sources */,
+				939C01D825F1334F004E797E /* ChecklistView.swift in Sources */,
+				938A48B325F28AD60044694C /* Binding.swift in Sources */,
+				939C01F325F140F2004E797E /* ChecklistItem.swift in Sources */,
+				939C024025F150F3004E797E /* EditChecklistView.swift in Sources */,
 				939C01D625F1334F004E797E /* WasteWatchersApp.swift in Sources */,
+				938A48B725F28AD60044694C /* ForEach.swift in Sources */,
+				938A48AF25F28AD60044694C /* IndexedCollection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,8 +371,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				939C01D925F1334F004E797E /* ContentView.swift in Sources */,
+				939C01FF25F1417F004E797E /* Checklist.swift in Sources */,
+				939C022025F14755004E797E /* NewChecklistItemView.swift in Sources */,
+				939C022B25F14B84004E797E /* RowView.swift in Sources */,
+				939C01D925F1334F004E797E /* ChecklistView.swift in Sources */,
+				938A48B425F28AD60044694C /* Binding.swift in Sources */,
+				939C01F425F140F2004E797E /* ChecklistItem.swift in Sources */,
+				939C024125F150F3004E797E /* EditChecklistView.swift in Sources */,
 				939C01D725F1334F004E797E /* WasteWatchersApp.swift in Sources */,
+				938A48B825F28AD60044694C /* ForEach.swift in Sources */,
+				938A48B025F28AD60044694C /* IndexedCollection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,7 +388,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				938A48B925F28AD60044694C /* ForEach.swift in Sources */,
 				939C01C925F1334F004E797E /* Tests_iOS.swift in Sources */,
+				938A48B525F28AD60044694C /* Binding.swift in Sources */,
+				938A48B125F28AD60044694C /* IndexedCollection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,7 +399,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				938A48BA25F28AD60044694C /* ForEach.swift in Sources */,
 				939C01D425F1334F004E797E /* Tests_macOS.swift in Sources */,
+				938A48B625F28AD60044694C /* Binding.swift in Sources */,
+				938A48B225F28AD60044694C /* IndexedCollection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
